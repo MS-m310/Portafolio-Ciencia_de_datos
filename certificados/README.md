@@ -9,9 +9,9 @@ Este documento detalla los certificados que planeo obtener como parte del progra
 | Curso                                                                                                         | Créditos | Certificado                                                                                   |
 |---------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
 | **Foundations of Data Science: Data Structures and Algorithms Pathway**                                       | 3        |                                |
-| - 📈 Algorithms for Searching, Sorting, and Indexing                                                          |          | [Ver certificado](certificados/algorithms_for_searching_sorting_indexing.pdf)                 |
-| - 🌲 Trees and Graphs: Basics                                                                                 |          | [Ver certificado](certificados/trees_and_graphs_basics.pdf)                                   |
-| - 💡 Dynamic Programming, Greedy Algorithms                                                                   |          | [Ver certificado](certificados/dynamic_programming_greedy_algorithms.pdf)                     |
+| - 📈 Algorithms for Searching, Sorting, and Indexing                                                          |          | [Ver certificado](pathway_01.pdf)                 |
+| - 🌲 Trees and Graphs: Basics                                                                                 |          | [Ver certificado](Coursera KT654Q8MLDC8.pdf)                                   |
+| - 💡 Dynamic Programming, Greedy Algorithms                                                                   |          | [Ver certificado](Coursera BXFWPWAQ3ZF8.pdf)                     |
 | **Vital Skills for Data Scientists**                                                                          | 4        |                           |
 | - 📊 Data Science as a Field                                                                                  |          | [Ver certificado](certificados/data_science_as_a_field.pdf)                                   |
 | - 🔍 Ethical Issues in Data Science                                                                           |          | [Ver certificado](certificados/ethical_issues_in_data_science.pdf)                            |
