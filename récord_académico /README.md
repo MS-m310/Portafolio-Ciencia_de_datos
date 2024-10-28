@@ -1,6 +1,12 @@
 # 📚 Récord Académico
 
-Este archivo sirve como registro de mi progreso académico en la Maestría en Ciencias de Datos de la Universidad de Colorado Boulder. Aquí documentaré los conocimientos adquiridos, proyectos, y habilidades clave que desarrollé en cada curso, proporcionando una visión completa de mi trayectoria y logros.
+Bienvenido al repositorio de GitHub dedicado a mi trayectoria en el programa "Master of Science in Data Science" ofrecido por la Universidad de Colorado Boulder a través de Coursera.
+
+## 📚 Descripción del Programa
+
+Este repositorio sirve como un registro de mis cursos, proyectos y progreso de aprendizaje a lo largo de este completo programa de ciencias de datos. Incluye tareas, código y trabajos de proyectos que he completado durante el programa. 
+
+Aquí documentaré los conocimientos adquiridos, proyectos, y habilidades clave que desarrollé en cada curso, proporcionando una visión completa de mi trayectoria y logros.
 
 ## 📈 Objetivo
 
