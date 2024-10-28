@@ -14,7 +14,7 @@ Este documento detalla los certificados que planeo obtener como parte del progra
 
 
 
-[Ver certificado Pathway 01](certificados/certificados/pathway_01.pdf)
+[Ver certificado Pathway 01](certificados/pathway_01.pdf)
 
 
 
