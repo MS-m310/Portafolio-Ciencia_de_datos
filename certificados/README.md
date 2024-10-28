@@ -12,7 +12,11 @@ Este documento detalla los certificados que planeo obtener como parte del progra
 | - 📈 Algorithms for Searching, Sorting, and Indexing                                                          |          | [(ver)](pathway_01.pdf)
 )      |
 
+
+
 [Ver certificado Pathway 01](Portafolio-Ciencia_de_datos/certificados/Certificación/pathway_01.pdf)
+
+
 
 | - 🌲 Trees and Graphs: Basics                                                                                 |          | [Ver certificado](Coursera KT654Q8MLDC8.pdf)                                   |
 | - 💡 Dynamic Programming, Greedy Algorithms                                                                   |          | [Ver certificado](Coursera BXFWPWAQ3ZF8.pdf)                     |
