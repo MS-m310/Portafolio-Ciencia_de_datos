@@ -9,12 +9,12 @@ Este documento detalla los certificados que planeo obtener como parte del progra
 | Curso                                                                                                         | Créditos | Certificado                                                                                   |
 |---------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
 | **Foundations of Data Science: Data Structures and Algorithms Pathway**                                       | 3        |                                |
-| - 📈 Algorithms for Searching, Sorting, and Indexing                                                          |          | [(ver)](pathway_01.pdf)
+| - 📈 Algorithms for Searching, Sorting, and Indexing                                                          |          | [Ver certificado Pathway 01](certificados/pathway_01.pdf)
 )      |
 
 
 
-[Ver certificado Pathway 01](certificados/pathway_01.pdf)
+
 
 
 
