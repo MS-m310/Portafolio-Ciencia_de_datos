@@ -57,7 +57,7 @@ Aprende a diseñar y crear bases de datos relacionales eficientes y efectivas, l
 
 | Curso | Créditos | Estado | Resumen |
 |-------|----------|--------|---------|
-| Foundations of Data Science: Data Structures and Algorithms Pathway | 3 | ⬜ Pendiente | [Link al curso](https://coursera.org/specializations/boulder-data-structures-algorithms) |
+| Foundations of Data Science: Data Structures and Algorithms Pathway | 3 | ⬜ Pendiente | [Link al certificado](https://coursera.org/specializations/boulder-data-structures-algorithms) |
 | Algorithms for Searching, Sorting, and Indexing | | ⬜ Pendiente | [Link al curso](https://coursera.org/specializations/boulder-data-structures-algorithms) |
 | Trees and Graphs: Basics | | ⬜ Pendiente | [Link al curso](https://coursera.org/specializations/boulder-data-structures-algorithms) |
 | Dynamic Programming, Greedy Algorithms | | ⬜ Pendiente | [Link al curso](https://coursera.org/specializations/boulder-data-structures-algorithms) |
