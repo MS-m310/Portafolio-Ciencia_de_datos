@@ -18,14 +18,14 @@ Para cada curso, añadiré un informe final que incluirá:
 
 ## 🌟 Progreso Académico
 
-| Curso                                                                                                        | Estado       | Resumen Individual                                                                                  |
+| Curso                                                                                                        | Estado       | Resumen                                                                                   |
 |--------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
-| **Foundations of Data Science: Data Structures and Algorithms Pathway**                                      | 📖 En curso  | [Ver informe](record_academico/foundations_data_science.md)                                         |
-| **Vital Skills for Data Scientists**                                                                         | 📖 En curso  | [Ver informe](record_academico/vital_skills_data_scientists.md)                                     |
-| **Databases for Data Scientists Specialization**                                                             | 📖 En curso  | [Ver informe](record_academico/databases_data_scientists.md)                                        |
-| **Data Science Electives**                                                                                   | 📖 En curso  | [Ver informe](record_academico/data_science_electives.md)                                           |
+| **Foundations of Data Science: Data Structures and Algorithms Pathway**                                      | 📖 En curso  | [Ver](récord_académico/foundations_data_science.md)                                         |
+| **Vital Skills for Data Scientists**                                                                         | 📖 En curso  | [Ver](record_academico/vital_skills_data_scientists.md)                                     |
+| **Databases for Data Scientists Specialization**                                                             | 📖 En curso  | [Ver](record_academico/databases_data_scientists.md)                                        |
+| **Data Science Electives**                                                                                   | 📖 En curso  | [Ver](record_academico/data_science_electives.md)                                           |
 
-*Para ver el detalle completo de cada curso, haz clic en "Ver informe" en la tabla correspondiente.*
+*Para ver el detalle completo de los cursos, haz clic en "Ver" en la tabla correspondiente.*
 
 ---
 
