@@ -11,9 +11,9 @@ Este documento detalla los certificados que planeo obtener como parte del progra
 | **Foundations of Data Science: Data Structures and Algorithms Pathway**                                       | 3        |                                |
 | - 📈 Algorithms for Searching, Sorting, and Indexing                                                          |          | [Ver](certificados/pathway_01.pdf)
       |
-| - 🌲 Trees and Graphs: Basics                                                                                 |          | [Ver](certificados/Coursera KT654Q8MLDC8.pdf)                                   |
-| - 💡 Dynamic Programming, Greedy Algorithms                                                                   |          | [Ver](certificados/Coursera BXFWPWAQ3ZF8.pdf)                     |
-| **Vital Skills for Data Scientists**                                                                          | 4        |                           |
+| - 🌲 Trees and Graphs: Basics                                                                                 |          | [Ver](certificados/CourseraKT654Q8MLDC8.pdf)                                   |
+| - 💡 Dynamic Programming, Greedy Algorithms                                                                   |          | [Ver](certificados/CourseraBXFWPWAQ3ZF8.pdf)                     |
+| **Vital Skills for Data Scientists**                                                                         | 4        |                           |
 | - 📊 Data Science as a Field                                                                                  |          | [Ver certificado](certificados/data_science_as_a_field.pdf)                                   |
 | - 🔍 Ethical Issues in Data Science                                                                           |          | [Ver certificado](certificados/ethical_issues_in_data_science.pdf)                            |
 | - 🔐 Cybersecurity for Data Science                                                                           |          | [Ver certificado](certificados/cybersecurity_for_data_science.pdf)                            |
