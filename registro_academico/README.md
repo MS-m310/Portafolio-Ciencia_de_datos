@@ -1,4 +1,4 @@
-# 📚 Récord Académico
+# 📚 Registro Académico
 
 Bienvenido al archivo dedicado a mi pasion por conventirme en Científico de Datos.
 
