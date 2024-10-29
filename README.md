@@ -30,10 +30,10 @@ Tengo un fuerte interés en:
 - **Destacar entre los 10 mejores científicos de datos del mundo** 🌍, siendo reconocido por mis contribuciones significativas al campo y mi capacidad para transformar datos en valor estratégico.
 
 ## Tabla de Contenidos 📚
-- [Récord Académico](academic_records/README.md)
-- [Proyectos de Ciencia de Datos](projects/README.md)
+- [Récord Académico](récord_académico/README.md)
+- [Proyectos de Ciencia de Datos](proyectos/README.md)
 - [Habilidades Técnicas](skills.md)
-- [Certificados](certificates.md)
-- [Contacto](contact.md)
+- [Certificados](certificados/README.md)
+- [Contacto](contacto.md)
 
 ¡Gracias por visitar mi portafolio! No dudes en explorar mis proyectos y aprendizajes. Estoy emocionada por las oportunidades futuras y por contribuir al mundo de la ciencia de datos. 🚀
