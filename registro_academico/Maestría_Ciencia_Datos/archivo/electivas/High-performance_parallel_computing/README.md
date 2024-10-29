@@ -1,0 +1,15 @@
+Data Science Electives
+
+Introduction to High-Performance and Parallel Computing (1 credit)
+Managing, Describing, and Analyzing Data (1 credit)
+Stability and Capability in Quality Improvement (1 credit)
+Measurement Systems Analysis (1 credit)
+Deep Learning Applications for Computer Vision (1 credit)
+Effective Communication: Writing, Design, and Presentation Specialization (2 credits)
+Regression and Classification (1 credit)
+Fundamentals of Software Architecture for Big Data (1 credit)
+Software Architecture Patterns for Big Data (1 credit)
+Applications of Software Architecture for Big Data (1 credit)
+Supervised Text Classification for Marketing Analytics (1 credit)
+Unsupervised Text Classification for Marketing Analytics (1 credit)
+Network Analysis for Marketing Analytics (1 credit)
