@@ -1,6 +1,6 @@
 # 🎓 Certificados
 
-Este documento detalla los certificados obtenidos como parte del programa de Maestría en Ciencias de Datos de la Universidad de Colorado Boulder. Cada certificado representa un paso importante en mi formación y desarrollo profesional en el campo de la ciencia de datos. A medida que complete cada curso, actualizaré esta sección con los certificados obtenidos.
+Este documento detalla los certificados obtenidos como parte del programa de Maestría en Ciencias de Datos de la Universidad de Colorado Boulder a través de Coursera. Cada certificado representa un paso importante en mi formación y desarrollo profesional en el campo de la ciencia de datos. A medida que complete cada curso, actualizaré esta sección con los certificados obtenidos.
 
 ## 📋 Lista de Certificados
 
@@ -47,9 +47,9 @@ Este documento detalla los certificados obtenidos como parte del programa de Mae
 | - 📐 Software Architecture Patterns for Big Data (1 credit)                                                  | 1        | [Ver certificado](certificados/software_architecture_patterns_big_data.pdf)                   |
 | - 📈 Applications of Software Architecture for Big Data (1 credit)                                           | 1        | [Ver certificado](certificados/applications_software_architecture_big_data.pdf)               |
 | - 🧠 Supervised Text Classification for Marketing Analytics (1 credit)                                       | 1        | [Ver certificado](certificados/supervised_text_classification_marketing.pdf)                  |
-| - 🔍 Unsupervised Text Classification for Marketing Analytics (1 credit)                                     | 1        | [Ver certificado](certificados/unsupervised_text_classification_marketing.pdf)                |
-| - 🔗 Network Analysis for Marketing Analytics (1 credit)                                                     | 1        | [Ver certificado](certificados/network_analysis_marketing.pdf)                                |
-| **Other Electives (no more than 6 credits)**                                                                 |          |                                                                                               |
+| - 🔍 Unsupervised Text Classification for Marketing Analytics                                     | 1        | [Ver certificado](certificados/unsupervised_text_classification_marketing.pdf)                |
+| - 🔗 Network Analysis for Marketing Analytics                                                       | 1        | [Ver certificado](certificados/network_analysis_marketing.pdf)                                |
+| **Other Electives (no more than 6 credits)**                                                                 |          |                                                                                          |
 | - 📊 Product Cost and Investment Cash Flow Analysis (1 credit)                                               | 1        | [Ver certificado](certificados/product_cost_investment_cash_flow.pdf)                         |
 | - 📈 Project Valuation and the Capital Budgeting Process (1 credit)                                          | 1        | [Ver certificado](certificados/project_valuation_capital_budgeting.pdf)                       |
 | - 📊 Financial Forecasting and Reporting (1 credit)                                                          | 1        | [Ver certificado](certificados/financial_forecasting_reporting.pdf)                           |
