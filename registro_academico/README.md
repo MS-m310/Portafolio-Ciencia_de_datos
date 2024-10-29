@@ -1,6 +1,6 @@
 # 📚 Registro Académico
 
-Bienvenido al archivo dedicado a mi pasion por conventirme en Científico de Datos.
+Bienvenido al repositorio dedicado a mi pasion por conventirme en Científico de Datos.
 
 ## 📚 Descripción del Programa
 
