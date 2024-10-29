@@ -1,3 +1,4 @@
+###
 # Mi Portafolio de Ciencia de Datos 👩🏽‍💻
 
 ¡Hola! Soy Melitza Sepúlveda, una apasionada de la ciencia de datos en búsqueda de nuevas oportunidades para aplicar mis habilidades y conocimientos. Mi objetivo es convertirme en una experta en el análisis de datos y machine learning, contribuyendo a la toma de decisiones informadas a través de datos.
@@ -32,7 +33,7 @@ Tengo un fuerte interés en:
 ## Tabla de Contenidos 📚
 - [Registro Académico](registro_academico/README.md)
 - [Proyectos de Ciencia de Datos](proyectos/README.md)
-- [Habilidades Técnicas](skills.md)
+- [Habilidades Técnicas](destrezas.md)
 - [Certificados](certificados/README.md)
 - [Contacto](contacto.md)
 
