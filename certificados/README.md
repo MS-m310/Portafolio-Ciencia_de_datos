@@ -1,6 +1,6 @@
 # 🎓 Certificados
 
-Este documento detalla los certificados que planeo obtener como parte del programa de Maestría en Ciencias de Datos de la Universidad de Colorado Boulder. Cada certificado representa un paso importante en mi formación y desarrollo profesional en el campo de la ciencia de datos. A medida que complete cada curso, actualizaré esta sección con los certificados obtenidos.
+Este documento detalla los certificados obtenidos como parte del programa de Maestría en Ciencias de Datos de la Universidad de Colorado Boulder. Cada certificado representa un paso importante en mi formación y desarrollo profesional en el campo de la ciencia de datos. A medida que complete cada curso, actualizaré esta sección con los certificados obtenidos.
 
 ## 📋 Lista de Certificados
 
