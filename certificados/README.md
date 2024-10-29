@@ -33,10 +33,8 @@ Este documento detalla los certificados obtenidos como parte del programa de Mae
 | - 🏗️ Relational Database Design                                                                               |          | [Ver certificado](certificados/relational_database.pdf)                                |
 | - 📜 The Structured Query Language (SQL)                                                                      |          | [Ver certificado](certificados/sql.pdf)                                                       |
 | - 🚀 Advanced Topics and Future Trends in Database Technologies (elective)                                    |          | [Ver certificado](certificados/advanced_technologies.pdf)        |
-
----
-| **Electives**                                  |          |                                               
-| - 🖥️ Introduction to High-Performance and Parallel Computing (1 credit)                                       | 1        | [Ver certificado](certificados/high_performance_parallel_computing.pdf)                       |
+| **Electives**                                  |          |   |                                           
+| - 🖥️ Introduction to High-Performance and Parallel Computing                                        | 1        | [Ver certificado](certificados/high_performance_parallel_computing.pdf)                       |
 | - 📊 Managing, Describing, and Analyzing Data (1 credit)                                                     | 1        | [Ver certificado](certificados/managing_describing_analyzing_data.pdf)                        |
 | - ⚙️ Stability and Capability in Quality Improvement (1 credit)                                               | 1        | [Ver certificado](certificados/stability_quality_improvement.pdf)                             |
 | - 🧪 Measurement Systems Analysis (1 credit)                                                                  | 1        | [Ver certificado](certificados/measurement_systems_analysis.pdf)                              |
