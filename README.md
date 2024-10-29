@@ -30,7 +30,7 @@ Tengo un fuerte interés en:
 - **Destacar entre los 10 mejores científicos de datos del mundo** 🌍, siendo reconocido por mis contribuciones significativas al campo y mi capacidad para transformar datos en valor estratégico.
 
 ## Tabla de Contenidos 📚
-- [Récord Académico](registro_academico/README.md)
+- [Registro Académico](registro_academico/README.md)
 - [Proyectos de Ciencia de Datos](proyectos/README.md)
 - [Habilidades Técnicas](skills.md)
 - [Certificados](certificados/README.md)
