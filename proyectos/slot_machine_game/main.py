@@ -26,7 +26,7 @@ engine.setProperty('rate', 170)
 user_data = {}
 
 # Funciones de asistencia de audio y visual
-def play_bgm(music_file='powdown-110017.ogg', volume=0.3):
+def play_bgm(music_file='background_music.ogg', volume=0.3):
     pygame.mixer.music.load(music_file)
     pygame.mixer.music.set_volume(volume)
     pygame.mixer.music.play(loops=-1)
