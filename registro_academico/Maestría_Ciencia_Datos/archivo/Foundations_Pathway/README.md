@@ -33,7 +33,7 @@ Los estudiantes resolverán problemas de estructuras de datos analizando y dise�
 
 | Curso                                                                                  | Duración | Enlace                                                                                         |
 |----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
-| 🧭 **Algorithms for Searching, Sorting, and Indexing**                                 | 35 hrs   | [Ver curso](https://www.coursera.org/learn/algorithms-for-searching-sorting-indexing)          |
+| 🧭 **Algorithms for Searching, Sorting, and Indexing**                                 | 35 hrs   | [Ver curso](./searching_sorting_indexing)          |
 | 🌳 **Trees and Graphs: Basics**                                                        | 34 hrs   | [Ver curso](https://www.coursera.org/learn/trees-and-graphs)                                   |
 | 📈 **Dynamic Programming, Greedy Algorithms**                                          | 37 hrs   | [Ver curso](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms)              |
 
