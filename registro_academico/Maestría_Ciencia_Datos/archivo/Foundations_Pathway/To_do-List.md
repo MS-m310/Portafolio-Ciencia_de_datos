@@ -1,0 +1,5 @@
+- Verificar totales en tablas
+- traducir al inglés
+- añadir links a los exámenes 
+- resumen por clase +links 
+- Reflexión sobre la clase 
