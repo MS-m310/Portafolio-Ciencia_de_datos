@@ -92,15 +92,14 @@ In this module the student will learn the very basics of algorithms through thre
 
 En este módulo, el estudiante aprenderá los conceptos básicos de estructuras de datos que organizan la información para hacer ciertos tipos de operaciones más rápidas. El módulo comienza con una introducción general a las estructuras de datos y analiza algunas estructuras simples como las colas (first-in first-out) y las pilas (last-in first-out). Luego se introduce la estructura de datos de "heap" y sus propiedades básicas, seguido de algoritmos para inserción, eliminación y búsqueda del elemento mínimo en un "heap" junto con sus complejidades de tiempo. Finalmente, se estudiará la estructura de datos de cola de prioridad y se presentarán algunas aplicaciones.
 
-| **Contenido**     | **Duración**|
-|-------------------|--------------|
-| **📹 Videos**     |              |   
-| A Simple Data Structure: The Dynamic Array | 20 min |
-| Heap, Min/Max-Heaps and Properties of Heaps | 24 min | 
-| Heap Primitives: Bubble Up/Bubble Down | 29 min | 
-| Priority Queues, Heapify, and Heapsort | 28 min |
-| Hashtables - Introduction | 17 min |
-| **Total: 5**      | **120 min** |
+| **📹 Videos**                                          | **Duración** |
+|------------------------------------------------------|--------------| 
+| A Simple Data Structure: The Dynamic Array           | 20 min       |
+| Heap, Min/Max-Heaps and Properties of Heaps         | 24 min       | 
+| Heap Primitives: Bubble Up/Bubble Down               | 29 min       | 
+| Priority Queues, Heapify, and Heapsort               | 28 min       |
+| Hashtables - Introduction                             | 17 min       |
+| **Total:**                                          | **118 min**  |
 
 | **📖 Lecturas**   | **Duración** |    
 |-------------------|--------------|
