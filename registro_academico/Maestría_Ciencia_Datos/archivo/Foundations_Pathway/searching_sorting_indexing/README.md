@@ -42,9 +42,8 @@ This course covers basics of algorithm design and analysis, as well as algorithm
 
 In this module the student will learn the very basics of algorithms through three examples: insertion sort (sort an array in ascending/descending order); binary search: search whether an element is present in a sorted array and if yes, find its index; and merge sort (a faster method for sorting an array). Through these algorithms the student will be introduced to the analysis of algorithms -- i.e, proving that the algorithm is correct for the task it has been designed for and establishing a bound on how the time taken to execute the algorithm grows as a function of input. The student is also exposed to the notion of a faster algorithm and asymptotic complexity through the O, big-Omega and big-Theta notations.
 
-| **Contenido**  | **Duración** |
-|----------------|--------------|
-| **📹 Videos**  |              |   
+
+| **📹 Videos**  |  **Duración**|  |----------------|--------------| 
 | What is an Algorithm?  | 28 min |
 | An Introduction Through the Insertion Sort Algorithm | 44 min | 
 | Time and Space Complexity  | 30 min | 
@@ -133,9 +132,9 @@ En este módulo, el estudiante aprenderá los conceptos básicos de estructuras 
 
 En este módulo, exploraremos los algoritmos de quicksort y quickselect para ordenar y seleccionar el k-ésimo elemento más pequeño en un array de manera eficiente, introduciendo el papel de la aleatorización en el diseño de algoritmos. Luego, estudiaremos las tablas hash: una estructura de datos altamente útil para realizar búsquedas y recuperaciones eficientes en grandes cantidades de datos. Aprenderemos los principios básicos de las tablas hash y las operaciones sobre estas.
 
-| **Contenido**     | **Duración** |
-|-------------------|--------------|
-| **📹 Videos**     |              |   
+
+| **📹 Videos**  | **Duración**|
+|----------------|--------------|  
 | Introduction to Randomization + Average Case Analysis + Recurrences | 23 min |
 | Partition and Quicksort Algorithm | 13 min | 
 | Detailed Design of Partitioning Schemes | 25 min | 
@@ -145,8 +144,8 @@ En este módulo, exploraremos los algoritmos de quicksort y quickselect para ord
 | Universal Hash Functions and Analysis | 20 min |
 | **Total: 7**      | **152 min** |
 
-| **📖 Lecturas**   | **Duración** |    
-|-------------------|--------------|
+| **📖 Lecturas**  | **Duración** |
+|-------------------|-------------|
 | Overview of Module 3 | 10 min |
 | CLRS Chapter 7.1 | 10 min |
 | CLRS Chapter 7.1 | 10 min |
@@ -155,8 +154,8 @@ En este módulo, exploraremos los algoritmos de quicksort y quickselect para ord
 | CLRS Chapter 11.3 | 10 min |
 | **Total: 6**      | **60 min** |
 
-| **📝 Quizzes**    | **Duración** |   
-|-------------------|--------------|
+| **📝 Quizzes**  | **Duración**|  
+|------------------|--------------|
 | Quicksort and Partition | 30 min |
 | Partition Schemes | 30 min | 
 | Analysis of Quicksort | 30 min |
@@ -175,9 +174,8 @@ En este módulo, exploraremos los algoritmos de quicksort y quickselect para ord
 
 En este módulo, aprenderemos sobre la selección aleatoria de pivotes para quicksort y quickselect. Analizaremos la complejidad de los algoritmos de quicksort/quickselect aleatorizados. Aprenderemos sobre hashing de dirección abierta: una técnica que simplifica el diseño de tablas hash. A continuación, estudiaremos el diseño y análisis de funciones hash. Finalmente, presentaremos y analizaremos los Bloom filters, que se utilizan en varias aplicaciones, como la consulta de datos en streaming y el conteo.
 
-| **Contenido**     | **Duración** |
-|-------------------|--------------|
-| **📹 Videos**     |              |   
+| **📹 Videos** |**Duración**    | 
+|----------------|--------------|
 | Open Address Hashing | 18 min |
 | Perfect hashing and Cuckoo hashing | 33 min | 
 | Bloom Filters and Analysis | 14 min | 
