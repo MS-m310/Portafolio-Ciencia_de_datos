@@ -42,16 +42,16 @@ This course covers basics of algorithm design and analysis, as well as algorithm
 
 In this module the student will learn the very basics of algorithms through three examples: insertion sort (sort an array in ascending/descending order); binary search: search whether an element is present in a sorted array and if yes, find its index; and merge sort (a faster method for sorting an array). Through these algorithms the student will be introduced to the analysis of algorithms -- i.e, proving that the algorithm is correct for the task it has been designed for and establishing a bound on how the time taken to execute the algorithm grows as a function of input. The student is also exposed to the notion of a faster algorithm and asymptotic complexity through the O, big-Omega and big-Theta notations.
 
-
-| **📹 Videos**  |  **Duración**|  |----------------|--------------| 
-| What is an Algorithm?  | 28 min |
-| An Introduction Through the Insertion Sort Algorithm | 44 min | 
-| Time and Space Complexity  | 30 min | 
-| Asymptotic Notation | 31 min |
-| Binary Search | 22 min |
-| Merge Sort Algorithm, Analysis and Proof of Correctness | 28 min |
-| Pitfalls and Logarithms | 15 min |
-| **Total: 7** | **201 min** |
+| **📹 Videos**                                           | **Duración** |
+|-------------------------------------------------------|--------------| 
+| What is an Algorithm?                                 | 28 min       |
+| An Introduction Through the Insertion Sort Algorithm  | 44 min       |
+| Time and Space Complexity                             | 30 min       | 
+| Asymptotic Notation                                   | 31 min       |
+| Binary Search                                         | 22 min       |
+| Merge Sort Algorithm, Analysis and Proof of Correctness | 28 min       |
+| Pitfalls and Logarithms                               | 15 min       |
+| **Total:**                                           | **201 min**  |
 
 | **📖 Lecturas** | **Duración** |    
 |-----------------|--------------|
